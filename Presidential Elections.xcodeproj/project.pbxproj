@@ -11,6 +11,7 @@
 		DCF415022A9992EF00620A6B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF415012A9992EF00620A6B /* ContentView.swift */; };
 		DCF415042A9992F100620A6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCF415032A9992F100620A6B /* Assets.xcassets */; };
 		DCF415072A9992F100620A6B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCF415062A9992F100620A6B /* Preview Assets.xcassets */; };
+		DCF4150E2A99932800620A6B /* Candidate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF4150D2A99932800620A6B /* Candidate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DCF415012A9992EF00620A6B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DCF415032A9992F100620A6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCF415062A9992F100620A6B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DCF4150D2A99932800620A6B /* Candidate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Candidate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		DCF414FE2A9992EF00620A6B /* Presidential Elections */ = {
 			isa = PBXGroup;
 			children = (
+				DCF4150D2A99932800620A6B /* Candidate.swift */,
 				DCF414FF2A9992EF00620A6B /* Presidential_ElectionsApp.swift */,
 				DCF415012A9992EF00620A6B /* ContentView.swift */,
 				DCF415032A9992F100620A6B /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCF4150E2A99932800620A6B /* Candidate.swift in Sources */,
 				DCF415022A9992EF00620A6B /* ContentView.swift in Sources */,
 				DCF415002A9992EF00620A6B /* Presidential_ElectionsApp.swift in Sources */,
 			);
